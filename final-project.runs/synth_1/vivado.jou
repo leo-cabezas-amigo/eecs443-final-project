@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue May  6 21:36:34 2025
+# Process ID: 14916
+# Current directory: C:/Users/Lambda/Desktop/EECS 443/Final Project/eecs443-final-project/final-project.runs/synth_1
+# Command line: vivado.exe -log IntersectionController.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source IntersectionController.tcl
+# Log file: C:/Users/Lambda/Desktop/EECS 443/Final Project/eecs443-final-project/final-project.runs/synth_1/IntersectionController.vds
+# Journal file: C:/Users/Lambda/Desktop/EECS 443/Final Project/eecs443-final-project/final-project.runs/synth_1\vivado.jou
+# Running On: DESKTOP-9STJQUD, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 14, Host memory: 34117 MB
+#-----------------------------------------------------------
+source IntersectionController.tcl -notrace
